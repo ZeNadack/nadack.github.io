@@ -22,18 +22,6 @@ markup:
     renderer:
       unsafe: true
 
-Menus:
-  main:
-    - identifier: AP
-      name: AP et Projets
-      title: AP et Projets
-      url: /projets/
-      weight: 1
-    - identifier: Stages
-      name: Stages
-      title: Stages
-      url: /stages/
-      weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
